@@ -1,0 +1,4 @@
+1. WiFi (Built-in)
+2. HTTPClient (Built-in)
+3. OneWire (by Jim Studt)
+4. DallasTemperature (by Miles Burton)
